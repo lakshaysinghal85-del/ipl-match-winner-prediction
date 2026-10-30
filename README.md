@@ -241,13 +241,6 @@ IPL-Match-Winner-Prediction/
 
 **Project Name:** IPL Match Winner Prediction System  
 **Student:** Lakshay  
-**UID:** 26MCD10093  
-**Program:** MCA (Data Science)  
-**Section:** B  
-**Semester:** 1st Semester  
-**University:** Chandigarh University  
-**Academic Session:** 2026–27
-
 ---
 
 **IPL Match Winner Prediction System — Applying Machine Learning to Cricket Analytics and Predicting Match Outcomes.**
